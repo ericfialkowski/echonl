@@ -1,4 +1,4 @@
-#echonl
+# echonl
 
 Little utility mainly for Windows users who need to be able to echo
 output in a batch file without adding a newline character.
